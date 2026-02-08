@@ -1,2 +1,2 @@
-# -Retro
+# Retro
 Buscando algo bueno 
