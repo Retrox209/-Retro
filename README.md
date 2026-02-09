@@ -1,6 +1,8 @@
->>BIENVENIDOS A MI REPOSITORIO🔥
+<br clear="both">
 
-Aun está en creación perdón que se vea de ese modo
+<h2 align="center">HOLA BIENVENIDO/A</h2>
+
+<h6 align="left">Este es el repositorio Oficial de JURI WABOT</h6>
 
 
 <div align="center">
