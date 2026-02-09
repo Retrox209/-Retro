@@ -6,7 +6,7 @@
 
 <h2 align="center">HOLA 👋 BIENVENIDO(A)</h2>
 
-<h6 align="left">Este es el repositorio Oficial de JURI WABOT</h6>
+<h6 align="left">Hola gracias por visitar mi repositorio, espero que te encuentres bien, aquí encontraras algunos de mis proyectos</h6>
 
 
 >>SIGUEME EN MIS REDES SOCIALES 🔥
