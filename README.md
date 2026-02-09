@@ -1,5 +1,7 @@
 >>BIENVENIDOS A MI REPOSITORIO🔥
 
+//si buscás un bot rápido y seguro para tu WhatsApp Stellar es su mejor opción 
+
 Aun está en creación perdón que se vea de ese modo
 
 <div align="left">
