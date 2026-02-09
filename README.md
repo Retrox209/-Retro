@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">HOLA BIENVENIDO/A</h2>
+<h2 align="center">HOLA BIENVENIDO/A 🎁</h2>
 
 <h6 align="left">Este es el repositorio Oficial de JURI WABOT</h6>
 
