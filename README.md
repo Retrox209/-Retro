@@ -15,9 +15,7 @@
 
 
 <p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Daname tengo hambre: ...<br>🎮 Gamer: ...</p>
->>>Número de yape 
-
-#910471065
+>>Número de yape +51910471065
 <h2 align="left">I code with</h2>
 
 <div align="left">
