@@ -8,9 +8,6 @@
 
 <h6 align="left">Hola gracias por visitar mi repositorio, espero que te encuentres bien, aquí encontraras algunos de mis proyectos</h6>
 
-
->>SIGUEME EN MIS REDES SOCIALES 🔥
-
 <h2 align="left">DATO</h2>
 
 
