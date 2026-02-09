@@ -14,7 +14,7 @@
 <h2 align="left">DATO</h2>
 
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁Daname: ...<br>🎮 Gamer: ...</p>
 
 <h2 align="left">I code with</h2>
 
