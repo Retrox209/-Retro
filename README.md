@@ -20,9 +20,6 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Retro206/Retro206/output/snake.svg" alt="Snake animation" />
-
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
